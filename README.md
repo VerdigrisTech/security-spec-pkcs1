@@ -15,4 +15,5 @@ $ sbt package
 
 ## License
 
-See [LICENSE.md](https://github.com/VerdigrisTech/security-spec-pkcs1/blob/master/LICENSE.md) for more information.
+Distributed under Apache 2.0 license. See [LICENSE.md](https://github.com/VerdigrisTech/security-spec-pkcs1/blob/master/LICENSE.md)
+for more information.
