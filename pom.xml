@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>co.verdigris.security.specs</groupId>
+  <artifactId>spec-pkcs1</artifactId>
+  <version>0.1.0</version>
+</project>
