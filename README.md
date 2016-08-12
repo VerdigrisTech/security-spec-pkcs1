@@ -2,12 +2,12 @@
 
 Scala library with PKCS1EncodedKeySpec class which represents PKCS#1 encoded key
 
-# Prerequisites
+## Prerequisites
 
 * Scala 2.10+
 * sbt 0.13+
 
-# Building
+## Building
 
 ```bash
 $ sbt package
