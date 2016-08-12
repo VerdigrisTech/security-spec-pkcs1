@@ -9,7 +9,7 @@ Scala library with PKCS1EncodedKeySpec class which represents PKCS#1 encoded key
 
 ## Specifying Dependency
 
-If you want to use this library in your SBT project, just add:
+If you want to use this library in your SBT project, just add these lines to your `build.sbt` file:
 
 ```sbt
 libraryDependencies += "co.verdigris.security.specs" % "spec-pkcs1" % "0.1.0"
