@@ -7,6 +7,16 @@ Scala library with PKCS1EncodedKeySpec class which represents PKCS#1 encoded key
 * Scala 2.10+
 * sbt 0.13+
 
+## Specifying Dependency
+
+If you want to use this library in your SBT project, just add:
+
+```sbt
+libraryDependencies += "co.verdigris.security.specs" % "spec-pkcs1" % "0.1.0"
+
+resolvers += "Verdigris Security Specs" at "https://verdigristech.github.io/spec-pkcs1/"
+```
+
 ## Usage Example
 
 To generate an instance of [PrivateKey](https://docs.oracle.com/javase/8/docs/api/java/security/PrivateKey.html),
