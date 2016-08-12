@@ -15,4 +15,4 @@ $ sbt package
 
 ## License
 
-See [LICENSE.md]() for more information.
+See [LICENSE.md](https://github.com/VerdigrisTech/security-spec-pkcs1/blob/master/LICENSE.md) for more information.
