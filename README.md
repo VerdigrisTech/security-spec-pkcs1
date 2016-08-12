@@ -1,4 +1,4 @@
-# security-spec-pkcs1
+# spec-pkcs1
 
 Scala library with PKCS1EncodedKeySpec class which represents PKCS#1 encoded key.
 
