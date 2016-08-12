@@ -12,3 +12,7 @@ Scala library with PKCS1EncodedKeySpec class which represents PKCS#1 encoded key
 ```bash
 $ sbt package
 ```
+
+## License
+
+See [LICENSE.md]() for more information.
