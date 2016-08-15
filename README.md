@@ -17,7 +17,7 @@ libraryDependencies += "co.verdigris.security.specs" % "spec-pkcs1" % "0.1.0"
 resolvers += "Verdigris Security Specs" at "https://verdigristech.github.io/spec-pkcs1/"
 ```
 
-## Usage Example
+## Usage
 
 To generate an instance of [PrivateKey](https://docs.oracle.com/javase/8/docs/api/java/security/PrivateKey.html),
 instantiate `PKCS1EncodedKeySpec` with a byte array representation of PKCS#1 encoding and pass it to `generatePrivate`
