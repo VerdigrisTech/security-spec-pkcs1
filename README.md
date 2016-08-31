@@ -1,4 +1,4 @@
-# spec-pkcs1 ![Build Status](https://img.shields.io/circleci/project/VerdigrisTech/spec-pkcs1.svg)
+# spec-pkcs1 [![Build Status](https://img.shields.io/circleci/project/VerdigrisTech/spec-pkcs1.svg)](https://circleci.com/gh/VerdigrisTech/spec-pkcs1)
 
 Scala library with PKCS1EncodedKeySpec class which represents PKCS#1 encoded key.
 
