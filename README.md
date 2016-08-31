@@ -1,4 +1,4 @@
-# spec-pkcs1 [![Build Status](https://img.shields.io/circleci/project/VerdigrisTech/spec-pkcs1/master.svg)](https://circleci.com/gh/VerdigrisTech/spec-pkcs1) [![License](https://img.shields.io/badge/license-Apache%202.0%20License-blue.svg)](https://github.com/VerdigrisTech/spec-pkcs1/blob/master/LICENSE.md)
+# spec-pkcs1 [![Build Status](https://img.shields.io/circleci/project/VerdigrisTech/spec-pkcs1/master.svg)](https://circleci.com/gh/VerdigrisTech/spec-pkcs1) [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/VerdigrisTech/spec-pkcs1/blob/master/LICENSE.md)
 
 Scala library with PKCS1EncodedKeySpec class which represents PKCS#1 encoded key.
 
